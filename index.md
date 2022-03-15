@@ -1,4 +1,4 @@
-## Merve Burak Dugun
+## Merve Burak Düğün
 
 You can use the [editor on GitHub](https://github.com/burakkagancan/deneme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
